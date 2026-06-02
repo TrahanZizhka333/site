@@ -79,12 +79,12 @@ const products = [
     { id: 51, name: "НИКОБУСТЕР SALT (+20мг на 30 мл)", price: 3, category: "consumables", brand: "jord", description: "Для самостоятельного миксования" },
 
     // 🚬 СИГАРЕТЫ MARLBORO
-    { id: 52, name: "Marlboro Red (KING SIZE)", price: 14, category: "cigarettes", brand: "marlboro", description: "Классика, полная пачка" },
-    { id: 53, name: "Marlboro Premium Black (KING SIZE)", price: 15, category: "cigarettes", brand: "marlboro", description: "Премиум, полная пачка" },
-    { id: 54, name: "Marlboro Gold (KING SIZE)", price: 14, category: "cigarettes", brand: "marlboro", description: "Золотая, полная пачка" },
-    { id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 15, category: "cigarettes", brand: "marlboro", description: "Со вкусом, полная пачка" },
-    { id: 56, name: "Marlboro Vista (COMPACT)", price: 13, category: "cigarettes", brand: "marlboro", description: "Компакт, полная пачка" },
-    { id: 57, name: "Marlboro Brown (COMPACT)", price: 13, category: "cigarettes", brand: "marlboro", description: "Коричневая, полная пачка" },
+    { id: 52, name: "Marlboro Red (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", description: "Классика, полная пачка" },
+    { id: 53, name: "Marlboro Premium Black (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", description: "Премиум, полная пачка" },
+    { id: 54, name: "Marlboro Gold (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", description: "Золотая, полная пачка" },
+    { id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", description: "Со вкусом, полная пачка" },
+    { id: 56, name: "Marlboro Vista (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", description: "Компакт, полная пачка" },
+    { id: 57, name: "Marlboro Brown (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", description: "Коричневая, полная пачка" },
 
     // ☁️ LOST MARY
     { id: 58, name: "LOST MARY 5к — Клубничное мороженое", price: 20, category: "pod", brand: "lostmary", description: "5000 тяг" },
