@@ -96,14 +96,16 @@ const products = [{
         brand: "jord", 
         flavors: [
             "Арбузно дынный фреш 🤩",
-            "Вишня виноград 🍇"
+            "Вишня виноград 🍇",
+            "Малина виноград 🍇",
+            "LIT ENERGY CLASSIK⚡️"
         ],
         description: "30мл" 
     },
 
     // ☠️ ЗЛАЯ МОНАШКА x TPL (1 карточка + 3 вкуса)
     { 
-        id: 38, 
+        id: 76, 
         name: "ЗЛАЯ МОНАШКА x TPL ☠️", 
         price: 18, 
         category: "liquid", 
@@ -132,11 +134,27 @@ const products = [{
         ],
         description: "30мл" 
     },
+     // 🧊 ANIMMA LOVE TOYZ (1 карточка + 4)
+    { 
+        id: 79, 
+        name: "ANIMMA LOVE TOYZ✔️", 
+        price: 16, 
+        category: "liquid", 
+        brand: "jord", 
+        flavors: [
+            "Скитлс цитрусовый 🍋‍🟩",
+            "Виноградный микс  🍇",
+            "Ягодные мармеладные червячки 🤩",
+            "Тути фрути ⚡️",
+
+        ],
+        description: "75mg,30мл" 
+    },
 
     // Одиночные жидкости
     { id: 27, name: "ANNIMA LOVE MISIDE — Добрый арбуз 🍉", price: 16, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
     { id: 34, name: "HOTSPOT ICE — Кола 🥤", price: 14, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
-    { id: 35, name: "САМОУБИЙЦА V2 DANGER — Малина виноград 🍇", price: 18, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
+   
 
     // 🔧 РАСХОДНИКИ
     { id: 46, name: "Картридж xros 0.8 (3мл)", price: 13, category: "consumables", brand: "vaporesso", flavors: [], description: "Оригинал, 3мл" },
@@ -147,12 +165,12 @@ const products = [{
     { id: 51, name: "НИКОБУСТЕР SALT (+20мг на 30 мл)", price: 3, category: "consumables", brand: "jord", flavors: [], description: "Для миксования" },
 
     // 🚬 MARLBORO
-    { id: 52, name: "Marlboro Red (KING SIZE)", price: 14, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 53, name: "Marlboro Premium Black (KING SIZE)", price: 15, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 54, name: "Marlboro Gold (KING SIZE)", price: 14, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 15, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 56, name: "Marlboro Vista (COMPACT)", price: 13, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 57, name: "Marlboro Brown (COMPACT)", price: 13, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 52, name: "Marlboro Red (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 53, name: "Marlboro Premium Black (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 54, name: "Marlboro Gold (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 56, name: "Marlboro Vista (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    { id: 57, name: "Marlboro Brown (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
 
     // ☁️ LOST MARY
     { 
