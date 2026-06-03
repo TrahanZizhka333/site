@@ -152,7 +152,7 @@ const products = [{
     },
 
     // Одиночные жидкости
-    { id: 27, name: "ANNIMA LOVE MISIDE — Добрый арбуз 🍉", price: 16, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
+    //{ id: 27, name: "ANNIMA LOVE MISIDE — Добрый арбуз 🍉", price: 16, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
     { id: 34, name: "HOTSPOT ICE — Кола 🥤", price: 14, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
    
 
