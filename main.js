@@ -234,7 +234,7 @@ function checkoutToTelegram() {
         return;
     }
     const total = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
-    let message = '🛒 ЗАКАЗ VAPE SHOP%0A%0A📋 Товары:%0A';
+    let message = '🛒 ЗАКАЗ TRAHAN ZIZHKA%0A%0A📋 Товары:%0A';
     cart.forEach(item => {
         message += `▪️ ${item.name} × ${item.quantity} = ${item.price * item.quantity} BYN%0A`;
     });
