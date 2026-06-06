@@ -34,7 +34,7 @@ const products = [{
             "Персик абрикос 🍑",
             "Фруктовый мармелад 🍑",
             "Ягодная жвачка 🍬",
-            "Арбузная жвачка 🍬"
+            //"Арбузная жвачка 🍬"
         ],
         description: "80mg, 30мл" 
     },
@@ -49,7 +49,7 @@ const products = [{
         flavors: [
             "Арбузная жвачка 🤩",
             "Вишневая кола 🍒",
-            "Клубника банан 🍌",
+            //"Клубника банан 🍌",
             "Клубника малина вишня со льдом ❄️",
             "Клюквенный ред булл 🐂",
             "Мятная вишнёвая жвачка 🤩"
@@ -144,11 +144,27 @@ const products = [{
         flavors: [
             "Скитлс цитрусовый 🍋‍🟩",
             "Виноградный микс  🍇",
-            "Ягодные мармеладные червячки 🤩",
+            //"Ягодные мармеладные червячки 🤩",
             "Тути фрути ⚡️",
 
         ],
         description: "75mg,30мл" 
+    },
+                       // 🧊 ЗЛАЯ ЛАБУБА (1 карточка + 4)
+    { 
+        id: 84, 
+        name: "ЗЛАЯ ЛАБУБА", 
+        price: 16, 
+        category: "liquid", 
+        brand: "jord", 
+        flavors: [
+            "Малиновый лимонад",
+            "вишня яблоко",
+            //"Ягодные мармеладные червячки 🤩",
+            "клубничная жвачка",
+
+        ],
+        description: "30мл" 
     },
 
     // Одиночные жидкости
@@ -168,7 +184,7 @@ const products = [{
     { id: 52, name: "Marlboro Red (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
     { id: 53, name: "Marlboro Premium Black (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
     { id: 54, name: "Marlboro Gold (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
-    { id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
+    //{ id: 55, name: "Marlboro Flavor code (KING SIZE)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
     { id: 56, name: "Marlboro Vista (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
     { id: 57, name: "Marlboro Brown (COMPACT)", price: 10, category: "cigarettes", brand: "marlboro", flavors: [], description: "Полная пачка" },
 
