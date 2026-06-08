@@ -166,6 +166,58 @@ const products = [{
         ],
         description: "30мл" 
     },
+                   { 
+        id: 89, 
+        name: "ANIMA LOVE ZOMBI", 
+        price: 16, 
+        category: "liquid", 
+        brand: "jord", 
+        flavors: [
+            "яблоко виноград",
+            "лесной микс",
+            "клубника банан",
+            "арбузный бабл гам",
+            "вишня лед",
+            "морозный ред бул",
+            "клубничный леденец"
+            
+
+        ],
+        description: "30мл" 
+    },
+                   { 
+        id: 98, 
+        name: "ЗЛАЯ МОНАШКА HOTSPOT", 
+        price: 16, 
+        category: "liquid", 
+        brand: "jord", 
+        flavors: [
+            "Клубника лайм",
+            "Мармеладные червячки",
+            "Вишня ананас мята",
+            "Вишня ледяной лайм",
+            "Клубничный  мохито",
+            "Ледяной энергетик",
+            "Кола тамаринд лайм"
+           
+
+        ],
+        description: "30мл" 
+    },
+                   { 
+        id: 106, 
+        name: "ЗЛАЯ МИЛФА", 
+        price: 16, 
+        category: "liquid", 
+        brand: "jord", 
+        flavors: [
+            "Клубника банан",
+            "Ледяная кола",
+             "Персик маракуя"
+            
+        ],
+        description: "30мл" 
+    },
 
     // Одиночные жидкости
     //{ id: 27, name: "ANNIMA LOVE MISIDE — Добрый арбуз 🍉", price: 16, category: "liquid", brand: "jord", flavors: [], description: "30мл" },
