@@ -169,7 +169,7 @@ const products = [{
                    { 
         id: 89, 
         name: "ANIMA LOVE ZOMBI", 
-        price: 16, 
+        price: 18, 
         category: "liquid", 
         brand: "jord", 
         flavors: [
@@ -188,7 +188,7 @@ const products = [{
                    { 
         id: 98, 
         name: "ЗЛАЯ МОНАШКА HOTSPOT", 
-        price: 16, 
+        price: 18, 
         category: "liquid", 
         brand: "jord", 
         flavors: [
@@ -207,7 +207,7 @@ const products = [{
                    { 
         id: 106, 
         name: "ЗЛАЯ МИЛФА", 
-        price: 16, 
+        price: 18, 
         category: "liquid", 
         brand: "jord", 
         flavors: [
